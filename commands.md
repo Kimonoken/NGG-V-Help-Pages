@@ -54,7 +54,7 @@ Commands be typed in through the chat interface. This can be done by simply pres
 | resetcuffs | Reset cuff status if set. |
 | disguise | Hide your name and ID from others. /disguise again to clear. |
 | badge | Show your faction badge. |
-| capturepoint | If you are a gang or faction member. This allows you to start point captures. |
+| beginturf | If you are a gang or faction member. This allows you to start capturing a turf. |
 
 ## Vehicle Orientated
 | Command | Description
@@ -67,7 +67,6 @@ Commands be typed in through the chat interface. This can be done by simply pres
 | Command | Description
 | - | - |
 | id | Get your own ID. |
-| togglevoice | Toggle voice chat. |
 | changename | Change your name. Requires a voucher from City Hall. |
 | revive | Takes 5% of your income for instant revival. Minimum: $100 |
 | players | List all players. |
