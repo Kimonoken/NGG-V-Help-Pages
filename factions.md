@@ -21,7 +21,7 @@ Note: Reward Points are spent, not reclaimed. Ever.
 | Skill Name | Description |
 | - | - |
 | CHAT | Unlocks a Private Chat for Faction Members. Use /f to access it. |
-| RADIO | Unlocks a Radio Chat for Faction Members. Use /r to access it. Press M to talk over the radio. |
+| RADIO | Unlocks a Radio Chat for Faction Members. Use /r to access it. |
 | RECON | Unlocks the ability to see online Faction Members on the map. |
 | WAREHOUSE | Unlocks a shared Faction Warehouse to store items. |
 | VEHICLE | Unlocks shared vehicle slots that allow faction leadership to change vehicle models and spawn positions. For every 750 points. Your faction recieves a slot.,
@@ -40,7 +40,7 @@ Note: Reward Points are spent, not reclaimed. Ever.
 | OUTFIT_LOCKER | Unlocks an outfit locker where Faction Members can create outfits based on numeric values, and deploy them to their members. |
 | CAN_SPY | Unlocks the ability to place bugs on players or vehicles and "listen in" to their chats for a certain amount of time. |
 | CAN_DISGUISE | Unlocks the ability for Faction Members to change their names and unique identification number. |
-| DEPARTMENT_RADIO | Unlocks the ability to chat with other factions that also have this ability. Use /dept to access this feature. Press B to talk over the department radio. |
+| DEPARTMENT_RADIO | Unlocks the ability to chat with other factions that also have this ability. Use /dept to access this feature. |
 | TEXT_LINE | Unlocks the ability to send a text message to a defined faction number defined as a word; and all members recieve this message. ie. /t lumber I need refined metal at the docks. |
 | CAN_BE_RAIDED | Allows for a faction warehouse to be raided. |
 | CAN_RAID | "Gives the ability to raid another factions warehouse.",
